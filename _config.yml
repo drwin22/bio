@@ -2,5 +2,6 @@ title: Dr. Francois
 logo: /assets/img/ftn.jpg
 #description: text below image
 #show_downloads: true
-#theme: jekyll-theme-minimal
 remote_theme: THEME-NAME
+theme: jekyll-theme-minimal
+
