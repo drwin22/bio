@@ -71,6 +71,8 @@
 
 - [Youtube Channel](https://www.youtube.com/)
 
-
+```r
+plot(cars$speed)
+```
 
 - [Home](https://francoismn.us)
