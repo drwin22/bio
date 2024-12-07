@@ -1,11 +1,11 @@
-# Leadership in Education Technology
+# Educational Technology
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ed.D., Education | The University of Saint mary (_May 2022_)								       		
-- M.S., Physics	| The University of Laverne (_December 2019_)	 			        		
-- B.S., Physics | The University of Saint Thomas (_May 2017_)
+- Ed.D., Education | The University of Saint mary (_May 1980_)								       		
+- M.Ed., Education	| The University of Laverne (_December 1982_)	 			        		
+- B.A., Chenistry | The University of Saint Thomas (_May 2007_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
