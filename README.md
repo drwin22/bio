@@ -6,6 +6,9 @@
 - Ed.D., Education | The University of Saint mary (_May 1980_)								       		
 - M.Ed., Education	| The University of Laverne (_December 1982_)	 			        		
 - B.A., Chenistry | The University of Saint Thomas (_May 2007_)
+- Hubert Humphrey Institute of Public Affairs Minneapolis, MN
+  Certificate., Leadership for Common Good (1980)
+
 
 ## Work Experience
 **	ACADEMIC APPOINTMENTS
