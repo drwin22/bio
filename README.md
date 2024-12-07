@@ -6,7 +6,7 @@
 - Ed.D., Education | The University of Saint mary (_May 1980_)								       		
 - M.Ed., Education	| The University of Laverne (_December 1982_)	 			        		
 - B.A., Chenistry | The University of Saint Thomas (_May 2007_)
-- Hubert Humphrey Institute of Public Affairs Minneapolis, MN
+- Hubert Humphrey Institute of Public Affairs Minneapolis, MN |
   Certificate., Leadership for Common Good (1980)
 
 
@@ -19,7 +19,7 @@
 -	1978–1982 Saint Paul Technical College, Saint Paul, Minnesota Vocational Advisor
 
 
-**PROFESSIONAL SERVICE AND APPOINTMENTS
+## PROFESSIONAL SERVICE AND APPOINTMENTS
 -	1993-present Instructor, Emerging Technologies Saint Paul Connections, Saint Paul, Minnesota
 -	1992-1993 Coordinator Summer Science Institute Saint Paul Technical College, Saint Paul, Minnesota
 -	1992-1993 Committee Member General Study Licensure Committee Minnesota Board of Technical Colleges
@@ -35,7 +35,7 @@
 -	1978-1980 Bilingual Vocational Advisor Saint Paul Technical College, Saint Paul, Minnesota
 -	1976-1978 Refugee Employment Interview Assistant Minnesota department of Economic Security, Saint Paul, Mn
 
-### OTHER PUBLIC SERVICE
+## OTHER PUBLIC SERVICE
 -	1982-1995 President, Vietnamese American Friendship Association 
 -	1993-1994 Funding Allocation Committee, COMPAS 
 -	1992-1993 Talk Show Host, Asian Media Access 
@@ -47,9 +47,9 @@
 -	1978-1980 Advisory Committee Member, Refugee Resettlement Program 
 -	1977-1980 Board Member, Vietnamese Community of Minnesota
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![phot-1](/assets/img/p3.png)
 
-### OTHER PUBLIC SERVICE
+## OTHER PUBLIC SERVICE
 -	1982-1995 President, Vietnamese American Friendship Association 
 -	1993-1994 Funding Allocation Committee, COMPAS 
 -	1992-1993 Talk Show Host, Asian Media Access 
@@ -62,7 +62,7 @@
 -	1977-1980 Board Member, Vietnamese Community of Minnesota
 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/p20.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
@@ -74,15 +74,6 @@
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
+- [Home](https://francoismn.us)
