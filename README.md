@@ -2,7 +2,7 @@
 
 #### Skills: Educational Technology, Diversity and Inclusion,Statistics, Math, R.
 
-## Education
+## EDUCATION
 - Ed.D., Education | The University of Saint mary (_May 1980_)								       		
 - M.Ed., Education	| The University of Laverne (_December 1982_)	 			        		
 - B.A., Chenistry | The University of Saint Thomas (_May 2007_)
@@ -10,7 +10,7 @@
   Certificate., Leadership for Common Good (1980)
 
 
-## Work Experience
+## WORK EXPERIENCE
 **	ACADEMIC APPOINTMENTS
 - 2022 Teach Algebra, Applied Math and Statistics- 2017 Cultural Diversity and Inclusion
 -	1999 Saint Paul Technical College, Saint Paul, Minnesota Chairman, Math Department Chairman, Faculty Senate Technology Committee
@@ -47,7 +47,7 @@
 -	1978-1980 Advisory Committee Member, Refugee Resettlement Program 
 -	1977-1980 Board Member, Vietnamese Community of Minnesota
 
-![phot-1](/assets/img/p3.png)
+![photO-1](/assets/img/p28.png)
 
 ## OTHER PUBLIC SERVICE
 -	1982-1995 President, Vietnamese American Friendship Association 
@@ -62,7 +62,7 @@
 -	1977-1980 Board Member, Vietnamese Community of Minnesota
 
 
-![Bike Study](/assets/img/p20.png)
+![PHOTO2](/assets/img/p22.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
