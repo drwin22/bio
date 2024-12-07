@@ -1,6 +1,6 @@
 # Educational Technology
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Skills: Educational Technology, Diversity and Inclusion,Statistics, Math, R.
 
 ## Education
 - Ed.D., Education | The University of Saint mary (_May 1980_)								       		
