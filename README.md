@@ -8,26 +8,56 @@
 - B.A., Chenistry | The University of Saint Thomas (_May 2007_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**	ACADEMIC APPOINTMENTS
+- 2022 Teach Algebra, Applied Math and Statistics- 2017 Cultural Diversity and Inclusion
+-	1999 Saint Paul Technical College, Saint Paul, Minnesota Chairman, Math Department Chairman, Faculty Senate Technology Committee
+-	1987-present Saint Paul Technical College, Saint Paul, Minnesota Instructor, ESL, Math, AutoCAD 
+-	1982-1987 Saint Paul Technical College, Saint Paul, Minnesota Instructor, Science, Math 
+-	1978–1982 Saint Paul Technical College, Saint Paul, Minnesota Vocational Advisor
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**PROFESSIONAL SERVICE AND APPOINTMENTS
+-	1993-present Instructor, Emerging Technologies Saint Paul Connections, Saint Paul, Minnesota
+-	1992-1993 Coordinator Summer Science Institute Saint Paul Technical College, Saint Paul, Minnesota
+-	1992-1993 Committee Member General Study Licensure Committee Minnesota Board of Technical Colleges
+-	1991-1992 Committee Member State On-site Evaluation Minnesota Board of Technical Colleges
+-	1990-1991 Coordinator Supporting Diversity in Schools Saint Paul Foundation, Saint Paul, Minnesota
+-	1989-1990 Member Task Force for Cultural Diversity Minnesota Technical College system
+-	1989-1990 Elected Member Multimedia Grant Writing Committee, Saint Paul Technical College, Saint Paul, Mn
+-	1989-1990 Member Staff Advisory Committee, Saint Paul Technical College, Saint Paul, Minnesota
+-	1989-1990 Member 
+-	Multimedia Technology Broadcast, Minnesota Satellite & Technology, Minnesota Technical College System
+-	1987-1989 Member MEA Governmental Relations Council
+-	1984-1986 Chemical and Biological Analyst Intern Saint Paul Water & Utility Department, Maplewood, Minnesota
+-	1978-1980 Bilingual Vocational Advisor Saint Paul Technical College, Saint Paul, Minnesota
+-	1976-1978 Refugee Employment Interview Assistant Minnesota department of Economic Security, Saint Paul, Mn
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### OTHER PUBLIC SERVICE
+-	1982-1995 President, Vietnamese American Friendship Association 
+-	1993-1994 Funding Allocation Committee, COMPAS 
+-	1992-1993 Talk Show Host, Asian Media Access 
+-	1992-1993 Published Article, Colors Magazine 
+-	1991-1992 Board Member, In the City Arts 
+-	1990-1992 Senior Editor, Asian American Press 
+-	1989-1990Allocation Process Committee Member, Minneapolis United Way 
+-	1982-1983 Radio Announcer, Vietnamese Radio Program, KDAN 
+-	1978-1980 Advisory Committee Member, Refugee Resettlement Program 
+-	1977-1980 Board Member, Vietnamese Community of Minnesota
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### OTHER PUBLIC SERVICE
+-	1982-1995 President, Vietnamese American Friendship Association 
+-	1993-1994 Funding Allocation Committee, COMPAS 
+-	1992-1993 Talk Show Host, Asian Media Access 
+-	1992-1993 Published Article, Colors Magazine 
+-	1991-1992 Board Member, In the City Arts 
+-	1990-1992 Senior Editor, Asian American Press 
+-	1989-1990Allocation Process Committee Member, Minneapolis United Way 
+-	1982-1983 Radio Announcer, Vietnamese Radio Program, KDAN 
+-	1978-1980 Advisory Committee Member, Refugee Resettlement Program 
+-	1977-1980 Board Member, Vietnamese Community of Minnesota
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
